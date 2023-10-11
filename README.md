@@ -1,6 +1,6 @@
 # Joaco's Portfolio
 
-# [Proyecto 1: Análisis del sistema de salud de la Provincia de Buenos Aires] 
+# Proyecto 1: Análisis del sistema de salud de la Provincia de Buenos Aires
 Este es un proyecto hecho en el marco del Observatorio de Políticas Públicas del Frente Patria Grande, organismo del que soy voluntario como analista de datos. 
 
 * Como objetivo general del proyecto me propuse realizar una descripción del sistema de salud de Lomas de Zamora y las principales características de morbimortalidad de la población del partido en la actualidad.
